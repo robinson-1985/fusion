@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'core',
 
     'django_adminlte',
-    'django adminlte_theme',
+    'django_adminlte_theme',
 
     'django.contrib.admin',
     'django.contrib.auth',
